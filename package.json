@@ -1,0 +1,24 @@
+{
+  "name": "@develephant/jsonp",
+  "version": "1.0.0",
+  "description": "A promise based JSON wrapper.",
+  "main": "jsonp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develephant/jsonp.git"
+  },
+  "keywords": [
+    "json",
+    "promise",
+    "async"
+  ],
+  "author": "develephant <code@develephant.com> (http://www.develephant.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/develephant/jsonp/issues"
+  },
+  "homepage": "https://github.com/develephant/jsonp#readme"
+}
